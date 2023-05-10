@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\bin\Debug\sharp.exe.config
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\bin\Debug\sharp.exe
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\bin\Debug\sharp.pdb
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\obj\Debug\sharp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\obj\Debug\sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\obj\Debug\sharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\obj\Debug\sharp.exe
+C:\Users\User\source\repos\ParallelComputingProcesses\lab_2\sharp\obj\Debug\sharp.pdb
